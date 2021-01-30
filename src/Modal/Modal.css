@@ -1,0 +1,19 @@
+.modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background: azure;
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+}
+
+.modal-body {
+    width: 400px;
+    border-radius: 4px;
+    padding: 2rem;
+    background: white;
+    height: 200px;
+}
